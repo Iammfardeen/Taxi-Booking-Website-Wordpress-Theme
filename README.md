@@ -1,5 +1,7 @@
 # NCR Travel Company – WordPress Theme
 
+Designed and developed by [Fardeen Ahmad](https://github.com/iammfardeen) at **Weblix Studios**.
+
 **Version:** 1.0.0  
 **Requires WordPress:** 5.8+  
 **Requires PHP:** 7.4+  
@@ -132,4 +134,6 @@ The theme is fully responsive. The hamburger menu appears on screens below 768px
 
 ---
 
-© 2025 NCR Travel Company. All rights reserved.
+<p align="center">
+  Built with ❤️ by <strong>Fardeen Ahmad</strong> at <strong>Weblix Studios</strong> · New Delhi, India
+</p>
